@@ -215,3 +215,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+exam2/.idea/modules.xml
+*.iml
+exam2/.idea/encodings.xml
+mymarks/.idea/scopes/scope_settings.xml
+mymarks/.idea/workspace.xml
+mymarks/.idea/libraries/Google_App_Engine_SDK.xml
+exam2/.idea/workspace.xml
+exam2/.idea/.name
